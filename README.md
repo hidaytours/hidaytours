@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I used to be a student at 42Tokyo under the student name of "toryoshi".
 <!--
 **hidaytours/hidaytours** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
